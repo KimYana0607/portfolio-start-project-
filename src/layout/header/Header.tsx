@@ -1,4 +1,3 @@
-import React from 'react';
 import styled from "styled-components";
 import {Logo} from "../../component/logo/Logo.tsx";
 import {Menu} from "../../component/menu/Menu.tsx";

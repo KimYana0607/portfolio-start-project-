@@ -1,4 +1,3 @@
-import React from 'react';
 import iconsSprite  from '../../assets/images/Icons-sprite.svg'
 
 type iconPropsType = {

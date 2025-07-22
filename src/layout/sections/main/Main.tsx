@@ -1,4 +1,3 @@
-import React from 'react';
 import styled from "styled-components";
 import photo from '../../../assets/images/photo.png'
 import {FlexWrapper} from "../../../component/FlexWrapper.tsx";
